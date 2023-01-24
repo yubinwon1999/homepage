@@ -1,0 +1,795 @@
+/* screen - home */
+
+.home {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 6851px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.home .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1520px;
+  position: fixed;
+  top: 0;
+  z-index: 24;
+}
+
+.home .navbar {
+  height: 97px;
+  position: relative;
+  width: 1512px;
+}
+
+.home .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.home .navbar-link-yubin-won {
+  cursor: pointer;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 207px;
+}
+
+.home .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.home .rectangle-41 {
+  background-color: var(--white);
+  height: 61px;
+  left: 1367px;
+  position: absolute;
+  top: 16px;
+  width: 145px;
+}
+
+.home .navbar-link-about {
+  left: 1400px;
+  width: 70px;
+}
+
+.home .navbar-link-graphic {
+  left: 1107px;
+  width: 98px;
+}
+
+.home .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1246px;
+  position: absolute;
+  top: 16px;
+  width: 121px;
+}
+
+.home .navbar-link-drawing {
+  left: 1259px;
+  width: 91px;
+}
+
+.home .hi-im-yubin-won-c {
+  align-self: flex-start;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 67px;
+  margin-top: 96px;
+  min-height: 75px;
+  width: 544px;
+  z-index: 2;
+}
+
+.home .line-1 {
+  align-self: center;
+  height: 1px;
+  margin-left: 26.0px;
+  margin-top: 16px;
+  width: 1412px;
+  z-index: 11;
+}
+
+.home .life-on-earth {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 18.0px;
+  margin-top: 11px;
+  min-width: 1422px;
+  z-index: 14;
+}
+
+.home .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 112px;
+  height: 594px;
+  min-width: 1416px;
+  padding: 15px 13px;
+}
+
+.home .rectangle-3 {
+  align-self: flex-end;
+  height: 561px;
+  object-fit: cover;
+  width: 877px;
+}
+
+.home .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 4px;
+  min-height: 167px;
+  width: 388px;
+}
+
+.home .title {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .life-on-earth-festiv {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .brand-identity-uiux {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-3 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 17px;
+  width: 1430px;
+  z-index: 12;
+}
+
+.home .specimen {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 27.0px;
+  margin-top: 18px;
+  min-width: 1423px;
+  z-index: 15;
+}
+
+.home .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 104px;
+  height: 592px;
+  min-width: 1417px;
+  padding: 12px 9px;
+}
+
+.home .rectangle-6 {
+  height: 549px;
+  object-fit: cover;
+  width: 885px;
+}
+
+.home .flex-col-1 {
+  margin-top: 2px;
+  min-height: 167px;
+}
+
+.home .type-specimen-for-p22-johnston {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .type-specimen-to-pro {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-4 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 15px;
+  width: 1434px;
+  z-index: 9;
+}
+
+.home .overlap-group11 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--white);
+  display: flex;
+  height: 586px;
+  margin-left: 19.0px;
+  margin-top: 20px;
+  min-width: 1419px;
+  padding: 14px 11px;
+  z-index: 16;
+}
+
+.home .vinyl {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 104px;
+  min-width: 1383px;
+}
+
+.home .rectangle-9 {
+  height: 545px;
+  object-fit: cover;
+  width: 885px;
+}
+
+.home .flex-col-2 {
+  margin-top: 3px;
+  min-height: 167px;
+}
+
+.home .vinyl-of-jung-hoon-hee {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .a-vinyl-craft-of-kor {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-5 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 21px;
+  width: 1434px;
+  z-index: 10;
+}
+
+.home .airpollution {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 17.0px;
+  margin-top: 20px;
+  min-width: 1433px;
+  z-index: 17;
+}
+
+.home .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 104px;
+  height: 574px;
+  min-width: 1427px;
+  padding: 14px 15px;
+}
+
+.home .rectangle-10 {
+  height: 545px;
+  width: 889px;
+}
+
+.home .flex-col-3 {
+  margin-top: 3px;
+  min-height: 156px;
+}
+
+.home .air-pollution-poster {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .project-to-emphasize {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .public-poster {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-6 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 33px;
+  width: 1430px;
+  z-index: 8;
+}
+
+.home .magazine {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 34px;
+  min-width: 1449px;
+  z-index: 18;
+}
+
+.home .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 104px;
+  height: 562px;
+  min-width: 1443px;
+  padding: 0 31px;
+}
+
+.home .rectangle-1 {
+  height: 545px;
+  object-fit: cover;
+  width: 889px;
+}
+
+.home .flex-col-4 {
+  margin-top: 3px;
+  min-height: 193px;
+}
+
+.home .pardon-magazine {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .a-magazine-about-cul {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .editorial {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 37px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-7 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 31px;
+  width: 1434px;
+  z-index: 13;
+}
+
+.home .brand {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-right: 9px;
+  margin-top: 26px;
+  min-width: 1459px;
+  z-index: 19;
+}
+
+.home .overlap-group4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 100px;
+  height: 570px;
+  min-width: 1453px;
+  padding: 8px 19px;
+}
+
+.home .flex-col-5 {
+  margin-top: 3px;
+  min-height: 240px;
+}
+
+.home .brand-guideline-book-of-swin {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .swin-is-a-hybrid-of {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 124px;
+  width: 388px;
+}
+
+.home .brand-identity-editorial-uxui {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 12px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-8 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 28px;
+  width: 1434px;
+  z-index: 6;
+}
+
+.home .covid {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 32.0px;
+  margin-top: 11px;
+  min-width: 1440px;
+  z-index: 23;
+}
+
+.home .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 112px;
+  height: 570px;
+  min-width: 1434px;
+  padding: 12px 15px;
+}
+
+.home .rectangle-16 {
+  height: 545px;
+  width: 877px;
+}
+
+.home .flex-col-6 {
+  margin-top: 21px;
+  min-height: 156px;
+}
+
+.home .covid-numbers {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .a-numbers-that-i-got {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-9 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 49px;
+  width: 1434px;
+  z-index: 7;
+}
+
+.home .info {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 16.0px;
+  margin-top: 18px;
+  min-width: 1456px;
+  z-index: 20;
+}
+
+.home .overlap-group5 {
+  height: 576px;
+  position: relative;
+  width: 1450px;
+}
+
+.home .rectangle-67 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 576px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1450px;
+}
+
+.home .infography-of-asian {
+  color: var(--black);
+  font-weight: 400;
+  left: 1020px;
+  line-height: 24px;
+  position: absolute;
+  top: 73px;
+  width: 388px;
+}
+
+.home .infographic-of-asian-hate-crimes {
+  color: var(--black);
+  font-weight: 400;
+  left: 1020px;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 388px;
+}
+
+.home .infographics {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 1020px;
+  line-height: normal;
+  position: absolute;
+  top: 136px;
+  width: 388px;
+}
+
+.home .rectangle-13 {
+  height: 537px;
+  left: 22px;
+  position: absolute;
+  top: 21px;
+  width: 894px;
+}
+
+.home .line-10 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 33px;
+  width: 1429px;
+  z-index: 4;
+}
+
+.home .busan {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 30.0px;
+  margin-top: 22px;
+  min-width: 1442px;
+  z-index: 22;
+}
+
+.home .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 105px;
+  height: 572px;
+  min-width: 1436px;
+  padding: 12px 13px;
+}
+
+.home .rectangle-15 {
+  height: 545px;
+  width: 884px;
+}
+
+.home .flex-col-7 {
+  margin-top: 3px;
+  min-height: 224px;
+}
+
+.home .coffee-city-busan {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .busan-is-a-city-in-k {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-height: 77px;
+  width: 388px;
+}
+
+.home .brand-identity {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 43px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .line-11 {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 33px;
+  width: 1434px;
+  z-index: 5;
+}
+
+.home .block {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  margin-left: 32.0px;
+  margin-top: 28px;
+  min-width: 1440px;
+  z-index: 21;
+}
+
+.home .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 105px;
+  height: 590px;
+  min-width: 1434px;
+  padding: 12px 11px;
+}
+
+.home .rectangle-14 {
+  height: 545px;
+  object-fit: cover;
+  width: 884px;
+}
+
+.home .flex-col-8 {
+  margin-top: 3px;
+  min-height: 269px;
+}
+
+.home .never-ending-typography {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .each-alphabet-has-th {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  min-height: 133px;
+  width: 388px;
+}
+
+.home .typography-1 {
+  margin-top: 32px;
+}
+
+.home .line-container {
+  height: 1px;
+  margin-right: 15px;
+  margin-top: 9px;
+  position: relative;
+  width: 1434px;
+  z-index: 3;
+}
+
+.home .line-12 {
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1397px;
+}
+
+.home .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1434px;
+}
+
+.home .x2022-yubin-won {
+  align-self: flex-start;
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 70px;
+  margin-top: 47px;
+  min-height: 52px;
+  width: 388px;
+  z-index: 1;
+}
+
+.home .flex-col-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  width: 388px;
+}
+
+.home .navbar-link {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.home .packaging-2 {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 11px;
+  min-height: 52px;
+  width: 388px;
+}
+
+.home .typography-2 {
+  color: var(--tapa);
+  font-weight: 400;
+  line-height: normal;
+  min-height: 52px;
+  width: 388px;
+}

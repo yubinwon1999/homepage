@@ -1,0 +1,268 @@
+/* screen - block */
+
+.block {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 6647px;
+  min-width: 1512px;
+  overflow-x: hidden;
+}
+
+.block .overlap-group4 {
+  height: 6504px;
+  margin-top: 143px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.block .rectangle-20 {
+  background-color: var(--white);
+  height: 5687px;
+  left: 0;
+  position: absolute;
+  top: 817px;
+  width: 1512px;
+}
+
+.block .group-24 {
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  top: 5725px;
+}
+
+.block .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.block .rectangle-22 {
+  background-color: #fbfaf5;
+  height: 764px;
+  left: 59px;
+  position: absolute;
+  top: 1468px;
+  width: 1398px;
+}
+
+.block .rectangle-21 {
+  height: 764px;
+  left: 59px;
+  position: absolute;
+  top: 1468px;
+  width: 1398px;
+}
+
+.block .rectangle-23 {
+  height: 967px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2364px;
+  width: 672px;
+}
+
+.block .rectangle-26 {
+  height: 967px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 4562px;
+  width: 672px;
+}
+
+.block .rectangle-25 {
+  height: 967px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 3463px;
+  width: 1398px;
+}
+
+.block .rectangle-24 {
+  height: 967px;
+  left: 785px;
+  object-fit: cover;
+  position: absolute;
+  top: 2364px;
+  width: 672px;
+}
+
+.block .rectangle-27 {
+  height: 967px;
+  left: 785px;
+  object-fit: cover;
+  position: absolute;
+  top: 4562px;
+  width: 672px;
+}
+
+.block .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 79px;
+  line-height: normal;
+  position: absolute;
+  top: 1226px;
+  width: 477px;
+}
+
+.block .instructor_-eric-lee-year_2021-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 79px;
+  line-height: 24px;
+  position: absolute;
+  top: 1329px;
+  width: 477px;
+}
+
+.block .each-alphabet-has-th {
+  color: var(--black);
+  font-weight: 400;
+  left: 467px;
+  line-height: 24px;
+  position: absolute;
+  top: 1227px;
+  width: 710px;
+}
+
+.block .typography {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 79px;
+  line-height: normal;
+  position: absolute;
+  top: 1261px;
+  width: 388px;
+}
+
+.block .rectangle-19 {
+  height: 1096px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1398px;
+}
+
+.block .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 5660px;
+  width: 388px;
+}
+
+.block .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.block .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.block .overlap-group-1 {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.block .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.block .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.block .group-16 {
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.block .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.block .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.block .group-20 {
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.block .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.block .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.block .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

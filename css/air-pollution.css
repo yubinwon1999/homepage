@@ -1,0 +1,264 @@
+/* screen - air-pollution */
+
+.air-pollution {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 8471px;
+  min-width: 1512px;
+  overflow-x: hidden;
+}
+
+.air-pollution .overlap-group4 {
+  height: 8326px;
+  margin-top: 145px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.air-pollution .rectangle-28 {
+  background-color: var(--white);
+  height: 7536px;
+  left: 0;
+  position: absolute;
+  top: 790px;
+  width: 1512px;
+}
+
+.air-pollution .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 7758px;
+}
+
+.air-pollution .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.air-pollution .group-24 {
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  top: 7758px;
+}
+
+.air-pollution .overlap-group1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.air-pollution .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 7757px;
+  width: 388px;
+}
+
+.air-pollution .rectangle-10 {
+  height: 1141px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 1155px;
+  width: 1421px;
+}
+
+.air-pollution .rectangle-11 {
+  height: 1263px;
+  left: 55px;
+  position: absolute;
+  top: 2379px;
+  width: 1421px;
+}
+
+.air-pollution .rectangle-12 {
+  height: 1473px;
+  left: 55px;
+  position: absolute;
+  top: 4855px;
+  width: 1395px;
+}
+
+.air-pollution .rectangle-14 {
+  height: 1256px;
+  left: 55px;
+  position: absolute;
+  top: 6454px;
+  width: 1395px;
+}
+
+.air-pollution .rectangle-13 {
+  height: 1473px;
+  left: 55px;
+  position: absolute;
+  top: 3527px;
+  width: 1395px;
+}
+
+.air-pollution .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 65px;
+  line-height: normal;
+  position: absolute;
+  top: 938px;
+  width: 320px;
+}
+
+.air-pollution .instructor_-eric-lee-year_2021-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 65px;
+  line-height: 24px;
+  position: absolute;
+  top: 1041px;
+  width: 477px;
+}
+
+.air-pollution .a-public-poster-to-e {
+  color: var(--black);
+  font-weight: 400;
+  left: 453px;
+  line-height: 24px;
+  position: absolute;
+  top: 939px;
+  width: 710px;
+}
+
+.air-pollution .public {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 65px;
+  line-height: normal;
+  position: absolute;
+  top: 973px;
+  width: 388px;
+}
+
+.air-pollution .rectangle-10-1 {
+  height: 874px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 1415px;
+}
+
+.air-pollution .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.air-pollution .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.air-pollution .overlap-group-1 {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.air-pollution .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.air-pollution .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.air-pollution .group-16 {
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.air-pollution .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.air-pollution .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.air-pollution .group-20 {
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.air-pollution .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.air-pollution .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.air-pollution .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

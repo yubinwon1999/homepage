@@ -1,0 +1,319 @@
+/* screen - drawing2 */
+
+.drawing2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 6891px;
+  min-width: 1512px;
+  overflow-x: hidden;
+}
+
+.drawing2 .overlap-group4 {
+  height: 6710px;
+  margin-top: 181px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.drawing2 .rectangle {
+  background-color: var(--white);
+  height: 6192px;
+  left: 0;
+  position: absolute;
+  top: 518px;
+  width: 1512px;
+}
+
+.drawing2 .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 6070px;
+}
+
+.drawing2 .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.drawing2 .group-24 {
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  top: 6070px;
+}
+
+.drawing2 .overlap-group1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.drawing2 .rectangle-3 {
+  height: 866px;
+  left: 91px;
+  position: absolute;
+  top: 146px;
+  width: 649px;
+}
+
+.drawing2 .rectangle-3-1 {
+  height: 900px;
+  top: 1062px;
+}
+
+.drawing2 .rectangle-49 {
+  height: 900px;
+  left: 91px;
+  position: absolute;
+  top: 1062px;
+  width: 649px;
+}
+
+.drawing2 .rectangle-51 {
+  height: 420px;
+  left: 847px;
+  position: absolute;
+  top: 2934px;
+  width: 614px;
+}
+
+.drawing2 .rectangle-6 {
+  height: 502px;
+  left: 70px;
+  position: absolute;
+  top: 5448px;
+  width: 684px;
+}
+
+.drawing2 .rectangle-56 {
+  height: 502px;
+  left: 791px;
+  position: absolute;
+  top: 5448px;
+  width: 656px;
+}
+
+.drawing2 .rectangle-10 {
+  height: 468px;
+  left: 70px;
+  position: absolute;
+  top: 4934px;
+  width: 684px;
+}
+
+.drawing2 .rectangle-55 {
+  height: 486px;
+  left: 791px;
+  position: absolute;
+  top: 4906px;
+  width: 656px;
+}
+
+.drawing2 .rectangle-9 {
+  height: 390px;
+  left: 70px;
+  position: absolute;
+  top: 4444px;
+  width: 690px;
+}
+
+.drawing2 .rectangle-54 {
+  height: 372px;
+  left: 791px;
+  position: absolute;
+  top: 4462px;
+  width: 655px;
+}
+
+.drawing2 .rectangle-8 {
+  height: 490px;
+  left: 791px;
+  position: absolute;
+  top: 3882px;
+  width: 655px;
+}
+
+.drawing2 .rectangle-53 {
+  height: 446px;
+  left: 91px;
+  position: absolute;
+  top: 3926px;
+  width: 663px;
+}
+
+.drawing2 .rectangle-7 {
+  height: 440px;
+  left: 91px;
+  position: absolute;
+  top: 3414px;
+  width: 663px;
+}
+
+.drawing2 .rectangle-52 {
+  height: 440px;
+  left: 791px;
+  position: absolute;
+  top: 3414px;
+  width: 655px;
+}
+
+.drawing2 .rectangle-5 {
+  height: 876px;
+  left: 763px;
+  position: absolute;
+  top: 2016px;
+  width: 687px;
+}
+
+.drawing2 .rectangle-50 {
+  height: 520px;
+  left: 91px;
+  position: absolute;
+  top: 2016px;
+  width: 743px;
+}
+
+.drawing2 .rectangle-3-2 {
+  height: 1012px;
+  top: 0;
+}
+
+.drawing2 .rectangle-4 {
+  height: 507px;
+  left: 91px;
+  position: absolute;
+  top: 2847px;
+  width: 721px;
+}
+
+.drawing2 .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 94px;
+  line-height: normal;
+  position: absolute;
+  top: 6005px;
+  width: 388px;
+}
+
+.drawing2 .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.drawing2 .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1512px;
+}
+
+.drawing2 .overlap-group-1 {
+  height: 97px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.drawing2 .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.drawing2 .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1096px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.drawing2 .group-16 {
+  height: 61px;
+  left: 1356px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.drawing2 .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.drawing2 .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1096px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.drawing2 .group-20 {
+  height: 61px;
+  left: 1235px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.drawing2 .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.drawing2 .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.drawing2 .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}
+
+.drawing2 .rectangle-3-3 {
+  left: 763px;
+  position: absolute;
+  width: 658px;
+}

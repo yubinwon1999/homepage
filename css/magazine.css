@@ -1,0 +1,272 @@
+/* screen - magazine */
+
+.magazine {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 10895px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.magazine .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.magazine .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.magazine .overlap-group {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.magazine .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.magazine .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.magazine .group-16 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  position: absolute;
+  top: 16px;
+}
+
+.magazine .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.magazine .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.magazine .group-20 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  position: absolute;
+  top: 16px;
+}
+
+.magazine .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.magazine .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.magazine .rectangle-19 {
+  height: 764px;
+  margin-left: 14.0px;
+  margin-top: 143px;
+  object-fit: cover;
+  width: 1398px;
+  z-index: 2;
+}
+
+.magazine .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-top: 53px;
+  min-height: 9935px;
+  padding: 33px 0;
+  width: 1512px;
+  z-index: 1;
+}
+
+.magazine .overlap-group7 {
+  align-self: flex-start;
+  height: 103px;
+  margin-left: 84px;
+  position: relative;
+  width: 1098px;
+}
+
+.magazine .overlap-group5 {
+  height: 103px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1098px;
+}
+
+.magazine .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.magazine .a-magazine-about-cul {
+  color: var(--black);
+  font-weight: 400;
+  left: 388px;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  width: 710px;
+}
+
+.magazine .editorial {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 388px;
+}
+
+.magazine .instructor_-eric-lee-year_2021-fall {
+  align-self: flex-start;
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 84px;
+  min-height: 76px;
+  width: 477px;
+}
+
+.magazine .rectangle-3 {
+  height: 871px;
+  margin-right: 3.0px;
+  margin-top: 67px;
+  object-fit: cover;
+  width: 1401px;
+}
+
+.magazine .rectangle {
+  height: 871px;
+  margin-right: 3.0px;
+  margin-top: 115px;
+  object-fit: cover;
+  width: 1401px;
+}
+
+.magazine .group-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 772px;
+  margin-right: 2.0px;
+  margin-top: 48px;
+  min-width: 1510px;
+}
+
+.magazine .overlap-group6 {
+  height: 256px;
+  position: relative;
+  width: 454px;
+}
+
+.magazine .group-24 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  position: absolute;
+  top: 33px;
+}
+
+.magazine .overlap-group1-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.magazine .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.magazine .group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 284px;
+}
+
+.magazine .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}

@@ -1,0 +1,275 @@
+/* screen - busan */
+
+.busan {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 11927px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.busan .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.busan .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.busan .overlap-group {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.busan .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.busan .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.busan .group-16 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  position: absolute;
+  top: 16px;
+}
+
+.busan .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.busan .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.busan .group-20 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  position: absolute;
+  top: 16px;
+}
+
+.busan .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.busan .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.busan .rectangle-19 {
+  height: 752px;
+  margin-top: 143px;
+  object-fit: cover;
+  width: 1398px;
+  z-index: 2;
+}
+
+.busan .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-top: 65px;
+  min-height: 10967px;
+  padding: 33px 0;
+  width: 1512px;
+  z-index: 1;
+}
+
+.busan .overlap-group7 {
+  align-self: flex-start;
+  height: 189px;
+  margin-left: 77px;
+  position: relative;
+  width: 1098px;
+}
+
+.busan .overlap-group6 {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1098px;
+}
+
+.busan .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.busan .instructor_-eric-lee-year_2021-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 103px;
+  width: 477px;
+}
+
+.busan .busan-is-a-city-in-k {
+  color: var(--black);
+  font-weight: 400;
+  left: 388px;
+  line-height: 24px;
+  position: absolute;
+  top: 1px;
+  width: 710px;
+}
+
+.busan .brand-identity {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 388px;
+}
+
+.busan .rectangle-21 {
+  height: 764px;
+  margin-top: 53px;
+  object-fit: cover;
+  width: 1398px;
+}
+
+.busan .rectangle {
+  height: 900px;
+  margin-top: 122px;
+  object-fit: cover;
+  width: 1398px;
+}
+
+.busan .rectangle-25 {
+  height: 900px;
+  margin-top: 122px;
+  width: 1398px;
+}
+
+.busan .group-container {
+  align-items: flex-end;
+  display: flex;
+  gap: 764px;
+  margin-right: 2.0px;
+  margin-top: 74px;
+  min-width: 1510px;
+}
+
+.busan .overlap-group5 {
+  height: 239px;
+  position: relative;
+  width: 462px;
+}
+
+.busan .group-24 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  position: absolute;
+  top: 16px;
+}
+
+.busan .overlap-group1-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.busan .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 74px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 388px;
+}
+
+.busan .group-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 284px;
+}
+
+.busan .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}

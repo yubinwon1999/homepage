@@ -1,0 +1,413 @@
+/* screen - film */
+
+.film {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 16303px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.film .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.film .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.film .overlap-group {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.film .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.film .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.film .group-16 {
+  align-items: flex-start;
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.film .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.film .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.film .group-20 {
+  align-items: flex-start;
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.film .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.film .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.film .rectangle-35 {
+  align-self: center;
+  height: 619px;
+  margin-left: 11.0px;
+  margin-top: 202px;
+  width: 1419px;
+  z-index: 2;
+}
+
+.film .overlap-group4 {
+  height: 15907px;
+  margin-left: -487px;
+  margin-top: 81px;
+  position: relative;
+  width: 2846px;
+  z-index: 1;
+}
+
+.film .rectangle-20 {
+  background-color: var(--white);
+  height: 14175px;
+  left: 487px;
+  position: absolute;
+  top: 58px;
+  width: 1512px;
+}
+
+.film .rectangle-31 {
+  background-color: var(--white);
+  height: 15197px;
+  left: 487px;
+  position: absolute;
+  top: 710px;
+  width: 1512px;
+}
+
+.film .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 541px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 477px;
+}
+
+.film .instructor_-joseph-newton-year_2022-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 541px;
+  line-height: 24px;
+  position: absolute;
+  top: 103px;
+  width: 477px;
+}
+
+.film .life-on-earth-festiv {
+  color: var(--black);
+  font-weight: 400;
+  left: 929px;
+  line-height: 24px;
+  position: absolute;
+  top: 1px;
+  width: 710px;
+}
+
+.film .brand-identity-uiux {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 541px;
+  line-height: normal;
+  position: absolute;
+  top: 35px;
+  width: 388px;
+}
+
+.film .rectangle-39 {
+  height: 818px;
+  left: 541px;
+  position: absolute;
+  top: 263px;
+  width: 645px;
+}
+
+.film .rectangle-32 {
+  height: 589px;
+  left: 571px;
+  position: absolute;
+  top: 1294px;
+  width: 548px;
+}
+
+.film .rectangle-26 {
+  height: 567px;
+  left: 720px;
+  position: absolute;
+  top: 1322px;
+  width: 1878px;
+}
+
+.film .rectangle-40 {
+  height: 836px;
+  left: 541px;
+  position: absolute;
+  top: 2218px;
+  width: 645px;
+}
+
+.film .rectangle-36 {
+  height: 990px;
+  left: 1249px;
+  position: absolute;
+  top: 2064px;
+  width: 671px;
+}
+
+.film .rectangle-37-1 {
+  height: 818px;
+  left: 1249px;
+  position: absolute;
+  top: 263px;
+  width: 671px;
+}
+
+.film .rectangle-33 {
+  height: 717px;
+  left: 0;
+  position: absolute;
+  top: 3439px;
+  width: 2846px;
+}
+
+.film .rectangle-42-1 {
+  height: 321px;
+  left: 604px;
+  position: absolute;
+  top: 3334px;
+  width: 1278px;
+}
+
+.film .rectangle-34 {
+  height: 738px;
+  left: 541px;
+  position: absolute;
+  top: 4341px;
+  width: 640px;
+}
+
+.film .rectangle-38 {
+  height: 828px;
+  left: 1249px;
+  position: absolute;
+  top: 4251px;
+  width: 671px;
+}
+
+.film .rectangle-3 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 7210px;
+  width: 1401px;
+}
+
+.film .rectangle-22 {
+  height: 984px;
+  left: 490px;
+  object-fit: cover;
+  position: absolute;
+  top: 13469px;
+  width: 533px;
+}
+
+.film .rectangle-23 {
+  height: 984px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 13469px;
+  width: 534px;
+}
+
+.film .rectangle-24 {
+  height: 984px;
+  left: 1466px;
+  object-fit: cover;
+  position: absolute;
+  top: 13469px;
+  width: 533px;
+}
+
+.film .rectangle-19 {
+  height: 749px;
+  left: 540px;
+  position: absolute;
+  top: 9874px;
+  width: 440px;
+}
+
+.film .rectangle-41 {
+  height: 749px;
+  left: 1018px;
+  position: absolute;
+  top: 9874px;
+  width: 441px;
+}
+
+.film .rectangle-21 {
+  height: 749px;
+  left: 1497px;
+  position: absolute;
+  top: 9874px;
+  width: 440px;
+}
+
+.film .rectangle-29 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 5253px;
+  width: 1401px;
+}
+
+.film .rectangle-28 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 6219px;
+  width: 1401px;
+}
+
+.film .rectangle-4 {
+  height: 871px;
+  left: 540px;
+  position: absolute;
+  top: 8079px;
+  width: 1401px;
+}
+
+.film .rectangle-5 {
+  height: 848px;
+  left: 540px;
+  position: absolute;
+  top: 8950px;
+  width: 1401px;
+}
+
+.film .rectangle-6 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 10623px;
+  width: 1401px;
+}
+
+.film .rectangle-7 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 11574px;
+  width: 1401px;
+}
+
+.film .rectangle-8 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 12542px;
+  width: 1401px;
+}
+
+.film .rectangle-25 {
+  height: 871px;
+  left: 540px;
+  object-fit: cover;
+  position: absolute;
+  top: 14500px;
+  width: 1401px;
+}
+
+.film .group-2 {
+  align-items: center;
+  background-color: var(--white);
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  left: 1713px;
+  min-width: 282px;
+  padding: 88px 55px;
+  top: 15401px;
+}
+
+.film .group {
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

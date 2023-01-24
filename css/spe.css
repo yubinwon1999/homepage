@@ -1,0 +1,328 @@
+/* screen - spe */
+
+.spe {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 12476px;
+  min-width: 1512px;
+  overflow-x: hidden;
+}
+
+.spe .overlap-group4 {
+  height: 12401px;
+  margin-top: 64px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.spe .rectangle-20 {
+  background-color: var(--white);
+  height: 11505px;
+  left: 0;
+  position: absolute;
+  top: 896px;
+  width: 1512px;
+}
+
+.spe .rectangle-31 {
+  background-color: var(--white);
+  height: 10853px;
+  left: 0;
+  position: absolute;
+  top: 1548px;
+  width: 1512px;
+}
+
+.spe .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 57px;
+  line-height: normal;
+  position: absolute;
+  top: 830px;
+  width: 477px;
+}
+
+.spe .rectangle-28 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 0;
+  width: 1401px;
+}
+
+.spe .instructor_-joseph-newton-year_2022-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 57px;
+  line-height: 24px;
+  position: absolute;
+  top: 933px;
+  width: 477px;
+}
+
+.spe .specimens-are-basica {
+  color: var(--black);
+  font-weight: 400;
+  left: 506px;
+  line-height: 24px;
+  position: absolute;
+  top: 831px;
+  width: 710px;
+}
+
+.spe .packaging {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 54px;
+  line-height: normal;
+  position: absolute;
+  top: 873px;
+  width: 388px;
+}
+
+.spe .rectangle-3 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 1022px;
+  width: 1401px;
+}
+
+.spe .rectangle-32 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 1806px;
+  width: 1401px;
+}
+
+.spe .rectangle-33 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 2659px;
+  width: 1401px;
+}
+
+.spe .rectangle-35 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 4326px;
+  width: 1401px;
+}
+
+.spe .rectangle-37 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 8058px;
+  width: 1401px;
+}
+
+.spe .rectangle-41 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 9884px;
+  width: 1401px;
+}
+
+.spe .rectangle-39 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 6152px;
+  width: 1401px;
+}
+
+.spe .rectangle-34 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 3518px;
+  width: 1401px;
+}
+
+.spe .rectangle-36 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 5185px;
+  width: 1401px;
+}
+
+.spe .rectangle-38 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 8971px;
+  width: 1401px;
+}
+
+.spe .rectangle-42 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 10797px;
+  width: 1401px;
+}
+
+.spe .rectangle-40 {
+  height: 871px;
+  left: 57px;
+  position: absolute;
+  top: 7145px;
+  width: 1401px;
+}
+
+.spe .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 11789px;
+  width: 388px;
+}
+
+.spe .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 11822px;
+}
+
+.spe .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.spe .group-24 {
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  top: 11822px;
+}
+
+.spe .overlap-group1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.spe .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.spe .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.spe .overlap-group-1 {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.spe .rectangle-37-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.spe .rectangle-42-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.spe .group-16 {
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.spe .overlap-group1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.spe .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.spe .group-20 {
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.spe .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.spe .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.spe .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

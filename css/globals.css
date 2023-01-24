@@ -1,0 +1,96 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:400,700,500,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/633e16e55f7d0ca37d150093.633e16e6155fa122199dc488.M1hsG1K.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-end {
+  align-self: flex-end;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.next {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  width: 47px;
+}
+
+.i-os-icon-24-chevron-left-md {
+  height: 19px;
+  width: 19px;
+}
+
+.previous {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 34px;
+  width: 87px;
+}
+
+.rectangle-60 {
+  background-color: var(--white);
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.yubin-won {
+  cursor: pointer;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 207px;
+}
+
+.about {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: normal;
+  min-height: 29px;
+  width: 70px;
+}
+
+.drawing {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 13px;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 91px;
+}

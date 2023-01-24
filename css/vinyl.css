@@ -1,0 +1,291 @@
+/* screen - vinyl */
+
+.vinyl {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 8005px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.vinyl .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.vinyl .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.vinyl .overlap-group {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.vinyl .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.vinyl .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.vinyl .group-16 {
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.vinyl .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.vinyl .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.vinyl .group-20 {
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.vinyl .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.vinyl .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.vinyl .rectangle-19 {
+  height: 655px;
+  margin-left: 16.0px;
+  margin-top: 149px;
+  object-fit: cover;
+  width: 1400px;
+  z-index: 2;
+}
+
+.vinyl .overlap-group5 {
+  height: 7123px;
+  margin-top: 78px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.vinyl .overlap-group4 {
+  height: 7122px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1512px;
+}
+
+.vinyl .rectangle-28 {
+  background-color: var(--white);
+  height: 7049px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 1512px;
+}
+
+.vinyl .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 6571px;
+}
+
+.vinyl .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.vinyl .overlap-group1-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  left: 0;
+  min-width: 282px;
+  padding: 87px 57px;
+  position: absolute;
+  top: 6571px;
+}
+
+.vinyl .instructor_-peter-ahlberg-year_2022-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 64px;
+  line-height: normal;
+  position: absolute;
+  top: 102px;
+  width: 481px;
+}
+
+.vinyl .a-lp-vinyl-for-korea {
+  color: var(--black);
+  font-weight: 400;
+  left: 472px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 773px;
+}
+
+.vinyl .packaging {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 64px;
+  line-height: normal;
+  position: absolute;
+  top: 34px;
+  width: 391px;
+}
+
+.vinyl .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 6555px;
+  width: 388px;
+}
+
+.vinyl .rectangle-19-1 {
+  height: 892px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-20 {
+  height: 779px;
+  left: 64px;
+  position: absolute;
+  top: 1199px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-21 {
+  height: 739px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2078px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-22 {
+  height: 738px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 2918px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-23 {
+  height: 739px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 3756px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-24 {
+  height: 918px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 4595px;
+  width: 1400px;
+}
+
+.vinyl .rectangle-25 {
+  height: 917px;
+  left: 64px;
+  object-fit: cover;
+  position: absolute;
+  top: 5614px;
+  width: 1400px;
+}
+
+.vinyl .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 64px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 356px;
+}
+
+.vinyl .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

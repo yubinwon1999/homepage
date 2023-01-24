@@ -1,0 +1,387 @@
+/* screen - brand */
+
+.brand {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 16303px;
+  overflow-x: hidden;
+  width: 1512px;
+}
+
+.brand .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+}
+
+.brand .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1514px;
+}
+
+.brand .overlap-group {
+  height: 97px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.brand .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.brand .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1107px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.brand .group-16 {
+  height: 61px;
+  left: 1367px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.brand .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.brand .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1107px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.brand .group-20 {
+  height: 61px;
+  left: 1246px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.brand .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.brand .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.brand .rectangle-19 {
+  height: 764px;
+  margin-left: 4.0px;
+  margin-top: 143px;
+  object-fit: cover;
+  width: 1398px;
+  z-index: 2;
+}
+
+.brand .overlap-group4 {
+  height: 15343px;
+  margin-top: 53px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.brand .rectangle-20 {
+  background-color: var(--white);
+  height: 14175px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.brand .rectangle-31 {
+  background-color: var(--white);
+  height: 14691px;
+  left: 0;
+  position: absolute;
+  top: 652px;
+  width: 1512px;
+}
+
+.brand .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 14708px;
+}
+
+.brand .overlap-group-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.brand .group-24 {
+  height: 223px;
+  left: 0;
+  min-width: 284px;
+  top: 14708px;
+}
+
+.brand .overlap-group1-1 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 9px;
+  height: 223px;
+  min-width: 282px;
+  padding: 87px 57px;
+}
+
+.brand .rectangle-19-1 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 284px;
+  width: 1398px;
+}
+
+.brand .rectangle-20-1 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 1232px;
+  width: 1398px;
+}
+
+.brand .rectangle-21 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 2180px;
+  width: 1398px;
+}
+
+.brand .rectangle-22 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 3128px;
+  width: 1398px;
+}
+
+.brand .rectangle-22-1 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 3160px;
+  width: 1398px;
+}
+
+.brand .rectangle-23 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 4108px;
+  width: 1398px;
+}
+
+.brand .rectangle-24 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 5056px;
+  width: 1398px;
+}
+
+.brand .rectangle-24-1 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 5088px;
+  width: 1398px;
+}
+
+.brand .rectangle-25 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 6068px;
+  width: 1398px;
+}
+
+.brand .rectangle-26 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 7048px;
+  width: 1398px;
+}
+
+.brand .rectangle-27 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 8028px;
+  width: 1398px;
+}
+
+.brand .rectangle-28 {
+  height: 847px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 9008px;
+  width: 1398px;
+}
+
+.brand .rectangle-29 {
+  height: 1003px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 9988px;
+  width: 1398px;
+}
+
+.brand .rectangle-30 {
+  height: 1003px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 11124px;
+  width: 1398px;
+}
+
+.brand .rectangle-32 {
+  height: 1003px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: 12260px;
+  width: 1398px;
+}
+
+.brand .rectangle-33 {
+  height: 1003px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13673px;
+  width: 612px;
+}
+
+.brand .rectangle-34 {
+  height: 1378px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 13396px;
+  width: 900px;
+}
+
+.brand .title {
+  color: var(--black);
+  font-weight: 400;
+  left: 79px;
+  line-height: normal;
+  position: absolute;
+  top: 32px;
+  width: 477px;
+}
+
+.brand .instructor_-laina-leckie-year_2022-fall {
+  color: var(--black);
+  font-weight: 400;
+  left: 79px;
+  line-height: 24px;
+  position: absolute;
+  top: 135px;
+  width: 477px;
+}
+
+.brand .swin-is-a-hybrid-of {
+  color: var(--black);
+  font-weight: 400;
+  left: 519px;
+  line-height: 24px;
+  position: absolute;
+  top: 33px;
+  width: 710px;
+}
+
+.brand .brand-identity-editorial-uxui {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 79px;
+  line-height: normal;
+  position: absolute;
+  top: 67px;
+  width: 388px;
+}
+
+.brand .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 66px;
+  line-height: normal;
+  position: absolute;
+  top: 14675px;
+  width: 388px;
+}
+
+.brand .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

@@ -1,0 +1,278 @@
+/* screen - drawing1 */
+
+.drawing1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 7040px;
+  min-width: 1512px;
+  overflow-x: hidden;
+}
+
+.drawing1 .overlap-group4 {
+  height: 6694px;
+  margin-top: 181px;
+  position: relative;
+  width: 1512px;
+  z-index: 1;
+}
+
+.drawing1 .rectangle-48 {
+  background-color: var(--white);
+  height: 6192px;
+  left: 0;
+  position: absolute;
+  top: 502px;
+  width: 1512px;
+}
+
+.drawing1 .rectangle-3 {
+  height: 1012px;
+  left: 96px;
+  position: absolute;
+  top: 0;
+  width: 1330px;
+}
+
+.drawing1 .rectangle-5 {
+  height: 978px;
+  left: 96px;
+  position: absolute;
+  top: 1070px;
+  width: 1330px;
+}
+
+.drawing1 .rectangle-4 {
+  height: 920px;
+  left: 96px;
+  position: absolute;
+  top: 2102px;
+  width: 644px;
+}
+
+.drawing1 .rectangle-49 {
+  height: 920px;
+  left: 776px;
+  position: absolute;
+  top: 2102px;
+  width: 650px;
+}
+
+.drawing1 .rectangle-7 {
+  height: 420px;
+  left: 96px;
+  position: absolute;
+  top: 3076px;
+  width: 1330px;
+}
+
+.drawing1 .rectangle-9 {
+  height: 439px;
+  left: 103px;
+  position: absolute;
+  top: 5039px;
+  width: 637px;
+}
+
+.drawing1 .rectangle-53 {
+  height: 439px;
+  left: 776px;
+  position: absolute;
+  top: 5039px;
+  width: 660px;
+}
+
+.drawing1 .rectangle-11 {
+  height: 432px;
+  left: 103px;
+  position: absolute;
+  top: 5532px;
+  width: 637px;
+}
+
+.drawing1 .rectangle-54 {
+  height: 418px;
+  left: 776px;
+  position: absolute;
+  top: 5532px;
+  width: 649px;
+}
+
+.drawing1 .rectangle-12 {
+  height: 439px;
+  left: 103px;
+  position: absolute;
+  top: 4546px;
+  width: 637px;
+}
+
+.drawing1 .rectangle-52 {
+  height: 439px;
+  left: 776px;
+  position: absolute;
+  top: 4546px;
+  width: 649px;
+}
+
+.drawing1 .rectangle-10 {
+  height: 440px;
+  left: 103px;
+  position: absolute;
+  top: 4052px;
+  width: 637px;
+}
+
+.drawing1 .rectangle-51 {
+  height: 440px;
+  left: 758px;
+  position: absolute;
+  top: 4052px;
+  width: 667px;
+}
+
+.drawing1 .rectangle-8 {
+  height: 444px;
+  left: 103px;
+  position: absolute;
+  top: 3554px;
+  width: 637px;
+}
+
+.drawing1 .rectangle-50 {
+  height: 444px;
+  left: 776px;
+  position: absolute;
+  top: 3554px;
+  width: 649px;
+}
+
+.drawing1 .x2022-yubin-won {
+  color: var(--tapa);
+  font-weight: 400;
+  left: 103px;
+  line-height: normal;
+  position: absolute;
+  top: 6047px;
+  width: 388px;
+}
+
+.drawing1 .group-2 {
+  height: 223px;
+  left: 1226px;
+  min-width: 284px;
+  top: 6070px;
+}
+
+.drawing1 .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 2px;
+  height: 223px;
+  justify-content: flex-end;
+  min-width: 282px;
+  padding: 87px 55px;
+}
+
+.drawing1 .uppermenu {
+  align-items: flex-start;
+  display: flex;
+  height: 97px;
+  left: 0;
+  min-width: 1514px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.drawing1 .overlap-group3 {
+  height: 97px;
+  position: relative;
+  width: 1512px;
+}
+
+.drawing1 .overlap-group-1 {
+  height: 97px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.drawing1 .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.drawing1 .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1096px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.drawing1 .group-16 {
+  height: 61px;
+  left: 1356px;
+  min-width: 147px;
+  top: 16px;
+}
+
+.drawing1 .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.drawing1 .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1096px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.drawing1 .group-20 {
+  height: 61px;
+  left: 1235px;
+  min-width: 123px;
+  top: 16px;
+}
+
+.drawing1 .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.drawing1 .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.drawing1 .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+}

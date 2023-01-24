@@ -1,0 +1,335 @@
+/* screen - about */
+
+.about {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 982px;
+  overflow: hidden;
+  width: 1512px;
+}
+
+.about .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  margin-left: 2.0px;
+  min-height: 140px;
+  width: 1514px;
+  z-index: 1;
+}
+
+.about .overlap-group3 {
+  height: 97px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 1512px;
+}
+
+.about .overlap-group {
+  height: 97px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.about .rectangle-37 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 77px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+.about .rectangle-42 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 1096px;
+  position: absolute;
+  top: 16px;
+  width: 114px;
+}
+
+.about .group-16 {
+  left: 1356px;
+  min-width: 147px;
+}
+
+.about .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 61px;
+  min-width: 145px;
+  padding: 0 33px;
+}
+
+.about .about-1 {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: normal;
+  min-height: 29px;
+  width: 70px;
+}
+
+.about .graphic {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 400;
+  left: 1096px;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+  width: 98px;
+}
+
+.about .group-20 {
+  left: 1235px;
+  min-width: 123px;
+}
+
+.about .overlap-group2 {
+  height: 61px;
+  position: relative;
+  width: 121px;
+}
+
+.about .rectangle-43 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 121px;
+}
+
+.about .line-1 {
+  height: 1px;
+  margin-right: 19.0px;
+  width: 1403px;
+}
+
+.about .flex-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 133px;
+  height: 570px;
+  margin-right: 17.0px;
+  margin-top: 36px;
+  min-width: 1403px;
+  z-index: 2;
+}
+
+.about .rectangle-38 {
+  height: 440px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 440px;
+}
+
+.about .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 570px;
+  width: 830px;
+}
+
+.about .achievement {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 5px;
+  min-height: 35px;
+  width: 146px;
+}
+
+.about .number {
+  margin-top: 8px;
+}
+
+.about .overlap-group-1 {
+  height: 51px;
+  margin-left: 6px;
+  position: relative;
+  width: 510px;
+}
+
+.about .x2021-2025-silas-h-r {
+  color: var(--black);
+  font-weight: 400;
+  left: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.about .school-of-visual-arts {
+  color: #7b7676;
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 22px;
+  width: 510px;
+}
+
+.about .number-1 {
+  margin-top: 24px;
+}
+
+.about .x2020-2021-academic-e {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: -2px;
+  margin-left: 6px;
+  min-height: 22px;
+  white-space: nowrap;
+}
+
+.about .overlap-group1-1 {
+  height: 75px;
+  position: relative;
+  width: 830px;
+}
+
+.about .line-2 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 54px;
+  width: 830px;
+}
+
+.about .hongik-university {
+  color: #7b7676;
+  font-weight: 400;
+  left: 6px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 510px;
+}
+
+.about .introduction {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 5px;
+  margin-top: 17px;
+  min-height: 35px;
+  width: 109px;
+}
+
+.about .hi-im-yubin-won-c {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 5px;
+  margin-top: 12px;
+  min-height: 75px;
+  width: 510px;
+}
+
+.about .line-3 {
+  height: 1px;
+  margin-top: 28px;
+  width: 830px;
+}
+
+.about .place {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-left: 6px;
+  margin-top: 38px;
+  min-height: 35px;
+  width: 109px;
+}
+
+.about .flex-row-1 {
+  align-items: center;
+  display: flex;
+  gap: 14px;
+  margin-left: 6px;
+  margin-top: 9px;
+  min-width: 560px;
+}
+
+.about .icon-mail {
+  height: 36px;
+  width: 36px;
+}
+
+.about .ywon3svaedu {
+  color: var(--black);
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 1.0px;
+  min-height: 27px;
+  white-space: nowrap;
+  width: 510px;
+}
+
+.about .bobi21yrs {
+  color: var(--black);
+  font-weight: 400;
+  left: 675px;
+  line-height: 24px;
+  position: fixed;
+  top: 750px;
+  white-space: nowrap;
+  width: 510px;
+  z-index: 4;
+}
+
+.about .rectangle-40 {
+  background-color: #0c0c0c;
+  height: 27px;
+  left: 630px;
+  position: fixed;
+  top: 752px;
+  width: 26px;
+  z-index: 3;
+}
+
+.about .icon-instagram {
+  height: 22px;
+  left: 632px;
+  position: fixed;
+  top: 754px;
+  width: 22px;
+  z-index: 5;
+}
+
+.about .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  position: absolute;
+  top: 16px;
+}
+
+.about .number-2 {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  min-height: 35px;
+  width: 109px;
+}
